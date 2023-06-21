@@ -3,7 +3,7 @@
 
 
 
-¡Soy Stephania Antúnez, una programadora junior de Uruguay! 🇺🇾 Recientemente me gradué del curso Full Stack Developer en 4Geeks Academy y estoy emocionada por comenzar mi carrera en el mundo de la tecnología.
+¡Soy Stephania Antúnez, una programadora junior de Uruguay! 🇺🇾 Me gradué del curso Full Stack Developer en 4Geeks Academy y estoy emocionada por comenzar mi carrera en el mundo de la tecnología.
 
 🖥️ Tengo experiencia en HTML, JavaScript, React, Python, Bootstrap, CSS, SQL, Git, Flask y APIs. Me encanta explorar diferentes tecnologías y aprender nuevas habilidades.
 
