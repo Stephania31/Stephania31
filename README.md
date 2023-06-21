@@ -15,7 +15,7 @@
 
 💬 No dudes en contactarme si tienes alguna pregunta o simplemente quieres conversar sobre tecnología. ¡Estaré encantada de conectar contigo!
 
-📫 Puedes encontrarme en mi perfil de [LinkedIn](https://www.linkedin.com/in/stephan%C3%ADa-ant%C3%BAnez/) para conocer más sobre mí y mis proyectos.
+
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis repositorios. ¡No dudes en explorar y dejar una estrella si te gusta lo que ves!
 
@@ -31,3 +31,6 @@
 <p >  </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </p>
 
 
+<div><p>My profile overview: </p></div>
+
+![Stephania's github stats](https://github-readme-stats.vercel.app/api?username=Stephania31&show_icons=true)
