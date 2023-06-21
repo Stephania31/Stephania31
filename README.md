@@ -23,7 +23,7 @@
 
 ### Connect with me:
 
-<a href="[https://linkedin.com/in/priyankeshraj](https://www.linkedin.com/in/stephan%C3%ADa-ant%C3%BAnez/)" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a> <a href="[https://instagram.com/priyansh82](https://instagram.com/stephania.antunez?igshid=ZDc4ODBmNjlmNQ==)" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/stephan%C3%ADa-ant%C3%BAnez" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a> <a href="https://instagram.com/stephania.antunez?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="40" width="40" /></a>
 
 
 
