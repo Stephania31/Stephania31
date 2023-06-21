@@ -18,3 +18,16 @@
 📫 Puedes encontrarme en mi perfil de [LinkedIn](https://www.linkedin.com/in/stephan%C3%ADa-ant%C3%BAnez/) para conocer más sobre mí y mis proyectos.
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis repositorios. ¡No dudes en explorar y dejar una estrella si te gusta lo que ves!
+
+
+
+### Connect with me:
+
+<a href="[https://linkedin.com/in/priyankeshraj](https://www.linkedin.com/in/stephan%C3%ADa-ant%C3%BAnez/)" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a> <a href="[https://instagram.com/priyansh82](https://instagram.com/stephania.antunez?igshid=ZDc4ODBmNjlmNQ==)" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="40" width="40" /></a>
+
+
+
+### Languages and Tools:
+<p >  </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </p>
+
+
