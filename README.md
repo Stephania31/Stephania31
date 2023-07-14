@@ -7,7 +7,7 @@
 
 🖥️ Tengo experiencia en HTML, JavaScript, React, Python, Bootstrap, CSS, SQL, Git, Flask y APIs. Me encanta explorar diferentes tecnologías y aprender nuevas habilidades.
 
-⌨️ Actualmente estoy realizando un curso para profundizar en Python y dando mis primeros pasos en Django. Me apasiona el desarrollo backend y estoy ansiosa por seguir creciendo en este campo.
+⌨️ Actualmente estoy realizando un curso para profundizar en SQL , Python y dando mis primeros pasos en Django. Me apasiona el desarrollo backend y estoy ansiosa por seguir creciendo en este campo.
 
 🎯 Mis objetivos para 2023 son aumentar mis conocimientos en el desarrollo backend y continuar mejorando mi nivel de inglés.
 
